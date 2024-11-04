@@ -18,7 +18,7 @@
   </a>
 </p>
 <p>
-  <a href="sobremim-hazel.vercel.app">
+  <a href="https://sobremim-hazel.vercel.app">
     Site do projeto
   </a>
   </p>
