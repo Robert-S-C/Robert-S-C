@@ -1,6 +1,23 @@
 <h2>
   Olá, me chamo Robert Sousa, eu sou um intusiata na área de desenvolvimentos tecnológicos e estou atualmente me aprofundando na linguagem Javascript.
 </h2>
+<div>
+  <a href="https://github.com/Robert-S-C">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Robert-S-C&locale=pt-br"/>
+  </a>
+  <a href="https://github.com/Robert-S-C">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Robert-S-C&locale=pt-br&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+<div>
+  <p>
+    Linguagens que eu utilizo:
+  </p>
+  <p>
+    
+  </p>
+</div>
+
 
 <h3>
   Em meu portfólio já tenho alguns projetos concluídos, caso queiram dar uma olhada irei deixar o link abaixo para vocês darem uma olhada, e se gostarem, marquem com estrelinha por favor:
