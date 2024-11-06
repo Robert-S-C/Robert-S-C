@@ -85,18 +85,18 @@
     </h3>
     <p>
       <a href="https://www.twitch.tv/dagorlaus">
-      Twitch
+       <img align=center alt=Twitch src="imgs/twitch.svg"> 
       </a>
     </p>
     <p>
       <a href="https://www.facebook.com/robert.sousa.526">
-      Facebook
+        <img align=center alt=HTML src="imgs/Facebook.svg">
       </a>
     </p>
     <p>
       <a href="https://www.instagram.com/dragonlaus">
-      Instagram
-    </a>
+        <img align=center alt=Instagram src="imgs/Instagram.svg">
+      </a>
     </p>
   </div>
 
