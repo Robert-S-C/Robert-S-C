@@ -5,6 +5,20 @@
   ##
 
 <div>
+   <h3>
+      <i>
+        algumas das minhas Redes:
+      </i>
+  </h3>
+    
+  [![facebook](imgs/twitch.svg)](https://www.twitch.tv/dagorlaus)
+  [![facebook](imgs/Facebook.svg)](https://www.facebook.com/robert.sousa.526)
+  [![facebook](imgs/Instagram.svg)](https://www.instagram.com/dragonlaus)
+</div>
+
+  ##
+
+<div>
   <a href="https://github.com/Robert-S-C">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Robert-S-C&locale=pt-br&show_icons=true&theme=merko"/>
   </a>
@@ -19,9 +33,8 @@
      <p>
       Linguagens que eu utilizo:
     </p>
-      <img align=center alt=HTML src="imgs/HTML.svg"  hspace=15>
-      <img align=center alt=CSS src="imgs/CSS.svg" hspace=15>
-      <img align=center alt=Javascript src="imgs/JS.svg" hspace=15>
+    
+  [![HTML](imgs/HTML.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](imgs/CSS.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Javascript](imgs/JS.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   </div>
 
   ##
@@ -78,29 +91,14 @@
     <h4>
     Por enquanto é isso pessoal, a medida que eu for criando mais projetos eu atualizo essa página.
     </h4>
-    <h3>
-      <i>
-        Caso queira entrar em contato comigo, vou deixar as minhas redes sociais abaixo:
-      </i>
-    </h3>
-    <p>
-      <a href="https://www.twitch.tv/dagorlaus">
-       <img align=center alt=Twitch src="imgs/twitch.svg"> 
-      </a>
-    </p>
-    <p>
-      <a href="https://www.facebook.com/robert.sousa.526">
-        <img align=center alt=HTML src="imgs/Facebook.svg">
-      </a>
-    </p>
-    <p>
-      <a href="https://www.instagram.com/dragonlaus">
-        <img align=center alt=Instagram src="imgs/Instagram.svg">
-      </a>
-    </p>
-  </div>
-
-<!---
-Robert-S-C/Robert-S-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+<div>
+  <h3>
+    Vamo estudar!
+  </h3>
+  <p>
+    
+   <img alt=Gato Estudando height=300 align="center" src="imgs/gato.gif">
+  
+  </p>
+</div>
