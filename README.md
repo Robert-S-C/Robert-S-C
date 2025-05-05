@@ -90,8 +90,9 @@
     </h4>
     <h4>
       <i>
-        quarto projeto: Um Site Ficticio de venda de livros de programação.
+        Quarto projeto: Um Site Ficticio de venda de livros de programação.
       </i>
+      </h4>
     <p>
       <a href="https://github.com/Robert-S-C/Alurabook">
       Pagina do projeto
@@ -102,7 +103,6 @@
       Site do projeto
       </a>
     </p>
-    </h4>
     <h4>
     Por enquanto é isso pessoal, a medida que eu for criando mais projetos eu atualizo essa página.
     </h4>
