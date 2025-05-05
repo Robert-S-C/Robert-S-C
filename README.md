@@ -77,6 +77,7 @@
       <i>
         Terceiro projeto: Um joguinho, Um site de jogo que o usuário tem a missão de encontrar o número correto o mais breve possivel.
       </i>
+    </h4>
     <p>
       <a href="https://github.com/Robert-S-C/Jogo-Acerte-o-numero">
       Pagina do projeto
