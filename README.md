@@ -77,7 +77,6 @@
       <i>
         Terceiro projeto: Um joguinho, Um site de jogo que o usuário tem a missão de encontrar o número correto o mais breve possivel.
       </i>
-    </h4>
     <p>
       <a href="https://github.com/Robert-S-C/Jogo-Acerte-o-numero">
       Pagina do projeto
@@ -88,6 +87,22 @@
       Site do projeto
       </a>
     </p>
+    </h4>
+    <h4>
+      <i>
+        quarto projeto: Um Site Ficticio de venda de livros de programação.
+      </i>
+    <p>
+      <a href="https://github.com/Robert-S-C/Alurabook">
+      Pagina do projeto
+      </a>
+    </p>
+    <p>
+      <a href="https://alurabookficticio.vercel.app/">
+      Site do projeto
+      </a>
+    </p>
+    </h4>
     <h4>
     Por enquanto é isso pessoal, a medida que eu for criando mais projetos eu atualizo essa página.
     </h4>
